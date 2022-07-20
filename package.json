@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/builders": "^1.0.0",
     "@discordjs/rest": "^1.0.0",
     "@discordjs/voice": "^0.11.0",
     "bufferutil": "^4.0.6",
+    "discord-api-types": "^0.36.2",
     "discord.js": "^13.9.0",
     "utf-8-validate": "^5.0.9"
   },
